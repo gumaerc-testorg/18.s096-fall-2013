@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes & Slides
 uid: 5595067e-ea85-a891-7808-e0dc047689f1
 ---
@@ -49,7 +52,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Matrix Primer \[No lecture notes, but see [The Morgan Stanley MatrixTM microsite](http://www.morganstanley.com/matrixinfo/) for information about this topic\]
+Matrix Primer \[No lecture notes, but see [The Morgan Stanley Matrix{{< sup "TM" >}} microsite](http://www.morganstanley.com/matrixinfo/) for information about this topic\]
 {{< tdclose >}}
 
 {{< trclose >}}

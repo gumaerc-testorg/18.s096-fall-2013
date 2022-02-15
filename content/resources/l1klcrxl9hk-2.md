@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/52bed286919f594ab77f7881831a4837_l1kLCrxL9Hk.vtt
+file: /media/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/52bed286919f594ab77f7881831a4837_l1kLCrxL9Hk.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 52bed286-919f-594a-b77f-7881831a4837

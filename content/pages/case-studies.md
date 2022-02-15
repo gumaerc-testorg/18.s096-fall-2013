@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Case Studies
 uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 ---
@@ -26,10 +28,10 @@ ASSOCIATED FILES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Regression Analysis
 {{< tdclose >}}
 {{< tdopen >}}

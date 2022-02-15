@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 83b926b8-2c94-6464-b5bc-35b89c5e9b60
 ---
@@ -89,20 +91,6 @@ None
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with chalkboards, podium, slide screen at the front and tiered rows of seating for students.]({{< resource_file 898a847a-4fbb-e8b2-2b38-c048470ff00f >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    18.S096 is taught in a video-enabled tiered classroom including media projection screens, several cameras, and student microphones.
-    
 
 Student Information
 -------------------

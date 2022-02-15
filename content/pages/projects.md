@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 761a6c96-fe7d-0824-528a-490bc2252d5e
 ---
@@ -39,9 +42,9 @@ Detail one or more approaches to modeling asset bubbles; e.g., the work of Didie
 
 ### HJM vs Short-Rate Interest Rate Models.
 
-*   Start from the equation for forward rates _df__tT_ = _μtT dt_ + _σtTdB__t_ and derive the no-arbitrage condition for drift _μ__tT_.
-*   Derive drift _at_ for the short rate Ho-Lee Model _dr__t_ = _atdt + σdB__t_. Next, show that the Ho-Lee model can be written in the HJM form. Remember that _r__t_ = _f__tt_.
-*   Add a mean reversion to the Ho-Lee model _drt = (at - κrt)dt + σdB__t_ and write it in the HJM form.
+*   Start from the equation for forward rates _df_{{< sub "_tT_" >}} = _μ{{< sub "tT" >}} dt_ + _σ{{< sub "tT" >}}dB_{{< sub "_t_" >}} and derive the no-arbitrage condition for drift _μ_{{< sub "_tT_" >}}.
+*   Derive drift _at_ for the short rate Ho-Lee Model _dr_{{< sub "_t_" >}} = _a{{< sub "t" >}}dt + σdB_{{< sub "_t_" >}}. Next, show that the Ho-Lee model can be written in the HJM form. Remember that _r_{{< sub "_t_" >}} = _f_{{< sub "_tt_" >}}.
+*   Add a mean reversion to the Ho-Lee model _dr{{< sub "t" >}} = (a{{< sub "t" >}} - κr{{< sub "t" >}})dt + σdB_{{< sub "_t_" >}} and write it in the HJM form.
 
 ### Ross Recovery
 

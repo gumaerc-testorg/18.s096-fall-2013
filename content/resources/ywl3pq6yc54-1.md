@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/1d785287f238bbd6ef61d14ad727085b_ywl3pq6yc54.pdf
+file: /media/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/1d785287f238bbd6ef61d14ad727085b_ywl3pq6yc54.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 1d785287-f238-bbd6-ef61-d14ad727085b
