@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case study 6: Portfolio Theory'
 uid: f9775f11-79d2-0bc7-88a0-d1a623107a7b

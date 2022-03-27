@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case Study 5: VAR Models of Macro Economic Time Series'
 uid: e633bd2b-f13b-7d0b-9d80-67f6b00db398

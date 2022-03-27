@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case Study 2: Linear Regression Models for Exchange Rate Regimes'
 uid: f8c5c85a-b887-3fb4-ef4b-0bfcc6aec835

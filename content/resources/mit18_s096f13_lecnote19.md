@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes & Slides
 parent_type: CourseSection
+parent_uid: 5595067e-ea85-a891-7808-e0dc047689f1
 resourcetype: Document
 title: Black-Scholes Formula & Risk neutral valuation
 uid: d19208c0-17ad-a04f-9261-cfb41ab8d702

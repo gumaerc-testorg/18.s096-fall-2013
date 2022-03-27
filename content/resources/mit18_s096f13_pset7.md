@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 91a7a31d-49e5-03a8-4713-7266cb07cfbb
 resourcetype: Document
 title: 'Problem Set 7: Factor Modeling'
 uid: 501ab6f7-6c47-c8f8-a3be-8d0a73cc670d

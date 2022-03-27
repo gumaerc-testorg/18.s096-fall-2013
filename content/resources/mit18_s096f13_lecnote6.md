@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes & Slides
 parent_type: CourseSection
+parent_uid: 5595067e-ea85-a891-7808-e0dc047689f1
 resourcetype: Document
 title: Regression Analysis
 uid: fc0c08db-6b49-7cc3-bd09-020aec39f9b5

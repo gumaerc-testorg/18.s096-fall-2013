@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case Study Plots: Simulation'
 uid: e3419b9c-ff96-7dbc-cefd-7bd9017066d0

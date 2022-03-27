@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case Study Plots: US ETFS 2009-2013, Max Alloc 0.30'
 uid: 6da5f057-0f7e-d859-4a3c-84365795a572

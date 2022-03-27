@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes & Slides
 parent_type: CourseSection
+parent_uid: 5595067e-ea85-a891-7808-e0dc047689f1
 resourcetype: Document
 title: Introduction to Counterparty Credit Risk Conclusions
 uid: 6a88ece1-d517-80a6-a719-cc620abc7c2f

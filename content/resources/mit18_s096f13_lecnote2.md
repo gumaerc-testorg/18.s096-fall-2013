@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes & Slides
 parent_type: CourseSection
+parent_uid: 5595067e-ea85-a891-7808-e0dc047689f1
 resourcetype: Document
 title: Linear Algebra
 uid: bf77e900-565f-6487-e3f4-6ba38dcc6dd6

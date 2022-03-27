@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 91a7a31d-49e5-03a8-4713-7266cb07cfbb
 resourcetype: Document
 title: 'Problem Set 6: Time Series II and Portfolio Theory'
 uid: 9c394508-2887-de1e-03b7-9092d8f06010

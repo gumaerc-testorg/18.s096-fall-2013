@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case Study 3: Time Series Analysis of 10-Year US Treasury Yields'
 uid: 080e2e5b-4420-51fa-e509-9cf224f58c0f

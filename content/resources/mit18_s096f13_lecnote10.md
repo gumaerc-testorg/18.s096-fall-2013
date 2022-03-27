@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes & Slides
 parent_type: CourseSection
+parent_uid: 5595067e-ea85-a891-7808-e0dc047689f1
 resourcetype: Document
 title: Regularized Pricing and Risk Models
 uid: 0d3edf3e-95c2-2b1b-217a-0ec8b59d8ecc

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case Study 4: Volatility Modeling of Exchange Rate Returns'
 uid: 809b321c-4ffe-634b-3db0-e8c59c4049df

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes & Slides
 parent_type: CourseSection
+parent_uid: 5595067e-ea85-a891-7808-e0dc047689f1
 resourcetype: Document
 title: Value At Risk (VAR) Models
 uid: 8c9f9d32-1f7c-8bb3-4b28-9f178f7cfc32

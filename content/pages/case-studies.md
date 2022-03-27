@@ -40,7 +40,7 @@ Regression Analysis
 {{< tdopen >}}
 
 
-[R Instructions (TXT)](./resolveuid/4d61fe39d7ac846f575a124fe688a4c8)
+[R Instructions (TXT)]({{< baseurl >}}/resources/r_rstudio_instructions_casestudy1)
 
 [fm\_casestudy\_0\_InstallOrLoadLibraries (R)]({{< baseurl >}}/resources/fm_casestudy_0_installorloadlibraries)
 
@@ -59,7 +59,7 @@ Regression Analysis
 {{< tdopen >}}
 
 
-[R Instructions (TXT)](./resolveuid/8c856cae19c928af688551cb96e1b854)
+[R Instructions (TXT)]({{< baseurl >}}/resources/r_rstudio_instructions_casestudy2)
 
 [fm\_casestudy\_0\_InstallOrLoadLibraries (R)]({{< baseurl >}}/resources/fm_casestudy_0_installorloadlibraries)
 
@@ -67,7 +67,7 @@ Regression Analysis
 
 [fm\_casestudy\_2\_rcode (R)]({{< baseurl >}}/resources/fm_casestudy_2_rcode)
 
-[fred\_fxrates (TXT)](./resolveuid/81880ef88f7cdff3522d94e73c54b554)
+[fred\_fxrates (TXT)]({{< baseurl >}}/resources/fred_fxrates)
 
 
 {{< tdclose >}}

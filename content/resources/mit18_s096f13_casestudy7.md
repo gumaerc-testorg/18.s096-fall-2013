@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case Study 7: Factor Modeling of US Treasury Yields'
 uid: 3f158673-e318-8fae-b6cf-fa71ecb9d254

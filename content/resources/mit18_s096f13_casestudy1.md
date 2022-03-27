@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case Study 1: Linear Regression Models for Asset Pricing'
 uid: 0bdbe269-aa9d-fcdc-38aa-22cb1536e359

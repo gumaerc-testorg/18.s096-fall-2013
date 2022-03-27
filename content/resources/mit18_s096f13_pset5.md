@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 91a7a31d-49e5-03a8-4713-7266cb07cfbb
 resourcetype: Document
 title: 'Problem Set 5: Volatility Modeling'
 uid: 2dcc893d-045b-a13d-2904-efb2bb5f22cf

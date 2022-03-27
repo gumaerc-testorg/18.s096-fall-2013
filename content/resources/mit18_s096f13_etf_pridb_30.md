@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Document
 title: 'Case Study Plots: US ETFs 2003-2006, Max Alloc 0.30'
 uid: 88fd6375-57ae-a3cf-38b4-61b9db15233a

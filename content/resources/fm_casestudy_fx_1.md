@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
 resourcetype: Other
 title: fm_casestudy_fx_1.r
 uid: e1cd6637-5215-9687-8718-b92eedcf7275
