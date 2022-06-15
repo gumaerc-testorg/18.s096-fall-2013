@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/81880ef88f7cdff3522d94e73c54b554_fred_fxrates.txt
+file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/81880ef88f7cdff3522d94e73c54b554_fred_fxrates.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile

@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This lecture focuses on portfolio management, including portfolio construction, portfolio theory, risk parity portfolios, and their limitations.
 
 **Instructor:** Dr. Jake Xia
+
+
+

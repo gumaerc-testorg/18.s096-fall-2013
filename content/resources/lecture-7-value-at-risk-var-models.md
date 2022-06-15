@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This is an applications lecture on Value At Risk (VAR) models, and how financial institutions manage market risk.
 
 **Instructor:** Kenneth Abbott
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture introduces the topic of volatility modeling, including historical volatility, geometric Brownian motion, and Poisson jump diffusions.
 
 **Instructor:** Dr. Peter Kempthorne
+
+
+

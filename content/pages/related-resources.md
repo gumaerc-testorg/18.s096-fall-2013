@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This section provides a list of useful literature for the course and
+  a financial glossary with brief definitions and links to further information.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: afc5b70d-0a56-428e-d513-5c93b04cc74a
+video_metadata:
+  youtube_id: null
 ---
 
 Useful Literature

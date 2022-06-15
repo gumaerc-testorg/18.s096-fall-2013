@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture is an introduction to counterparty credit risk, featuring credit valuation as well as the broad economic objectives of a financial institution. It also concludes the course.
 
 **Instructor:** Yi Tang
+
+
+

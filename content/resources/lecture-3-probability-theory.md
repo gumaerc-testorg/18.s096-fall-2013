@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture is a review of the probability theory needed for the course, including random variables, probability distributions, and the Central Limit Theorem.
 
 **Instructor:** Dr. Choongbum Lee
+
+
+
