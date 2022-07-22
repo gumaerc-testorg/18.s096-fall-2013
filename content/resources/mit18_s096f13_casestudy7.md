@@ -4,6 +4,7 @@ description: This file contains information regarding case studies 7.
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/3f158673e3188faeb6cffa71ecb9d254_MIT18_S096F13_CaseStudy7.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding case studies 7.
-

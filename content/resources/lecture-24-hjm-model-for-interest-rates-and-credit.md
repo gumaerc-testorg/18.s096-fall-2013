@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This is a guest lecture that describes the HJM model for interest rates and credit, including hedging risk on interest and credit rate derivatives.
 
 **Instructor:** Denis Gorokhov
-
-
 

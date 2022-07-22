@@ -5,6 +5,7 @@ file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes & Slides
 parent_type: CourseSection

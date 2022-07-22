@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This is a lecture on risk-neutral pricing, featuring the Black-Scholes formula and risk-neutral valuation.
 
 **Instructor:** Dr. Vasily Strela
-
-
 

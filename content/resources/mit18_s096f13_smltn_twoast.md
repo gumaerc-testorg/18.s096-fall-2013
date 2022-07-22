@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/e3419b9cff967dbccefd7bd9017066d0_MIT18_S096F13_Smltn_TwoAst.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection

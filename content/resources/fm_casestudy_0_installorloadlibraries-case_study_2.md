@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/81b6dc87f23a3516d1f401bea1fdb567_fm_casestudy_0_InstallOrLoadLibraries%20Case_Study_2.r
 file_type: application/octet-stream
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
