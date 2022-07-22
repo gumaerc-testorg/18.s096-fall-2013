@@ -1,9 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/049fc5b84aa45edab8d844f48f5a5fc6_55OXxe_ix2o.vtt
+file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/049fc5b84aa45edab8d844f48f5a5fc6_55OXxe_ix2o.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 049fc5b8-4aa4-5eda-b8d8-44f48f5a5fc6
+video_metadata:
+  youtube_id: null
 ---

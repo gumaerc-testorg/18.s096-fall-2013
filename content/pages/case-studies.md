@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section provides the case studies used in the course, associated
+  files, and a link to more information on the free software environment used for
+  some case studies.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Case Studies
 uid: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
+video_metadata:
+  youtube_id: null
 ---
 
 Some of the case studies use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit The [R Project for Statistical Computing site](http://www.r-project.org/).
@@ -26,25 +33,25 @@ ASSOCIATED FILES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Regression Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-[Case Study 1: Linear Regression Models for Asset Pricing (PDF - 2.0MB)]({{< baseurl >}}/resources/mit18_s096f13_casestudy1)
+{{% resource_link 0bdbe269-aa9d-fcdc-38aa-22cb1536e359 "Case Study 1: Linear Regression Models for Asset Pricing (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[R Instructions (TXT)](./resolveuid/4d61fe39d7ac846f575a124fe688a4c8)
+{{% resource_link "4d61fe39-d7ac-846f-575a-124fe688a4c8" "R Instructions (TXT)" %}}
 
-[fm\_casestudy\_0\_InstallOrLoadLibraries (R)]({{< baseurl >}}/resources/fm_casestudy_0_installorloadlibraries)
+{{% resource_link 96f5d45e-d53b-5efb-3bd2-ac547da127f1 "fm\_casestudy\_0\_InstallOrLoadLibraries (R)" %}}
 
-[fm\_casestudy\_1\_0 (R)]({{< baseurl >}}/resources/fm_casestudy_1_0)
+{{% resource_link 5e56c4f6-391b-3b4c-66f7-5aa9a96f7282 "fm\_casestudy\_1\_0 (R)" %}}
 
-[fm\_casestudy\_1\_rcode (R)]({{< baseurl >}}/resources/fm_casestudy_1_rcode)
+{{% resource_link 35b9f17f-4f46-ca84-de99-12e5e91b4008 "fm\_casestudy\_1\_rcode (R)" %}}
 
 
 {{< tdclose >}}
@@ -52,20 +59,20 @@ Regression Analysis
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Case Study 2: Linear Regression Models for Exchange Rate Regimes (PDF)]({{< baseurl >}}/resources/mit18_s096f13_casestudy2)
+{{% resource_link f8c5c85a-b887-3fb4-ef4b-0bfcc6aec835 "Case Study 2: Linear Regression Models for Exchange Rate Regimes (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[R Instructions (TXT)](./resolveuid/8c856cae19c928af688551cb96e1b854)
+{{% resource_link "8c856cae-19c9-28af-6885-51cb96e1b854" "R Instructions (TXT)" %}}
 
-[fm\_casestudy\_0\_InstallOrLoadLibraries (R)]({{< baseurl >}}/resources/fm_casestudy_0_installorloadlibraries)
+{{% resource_link 96f5d45e-d53b-5efb-3bd2-ac547da127f1 "fm\_casestudy\_0\_InstallOrLoadLibraries (R)" %}}
 
-[fm\_casestudy\_fx\_1 (R)]({{< baseurl >}}/resources/fm_casestudy_fx_1)
+{{% resource_link e1cd6637-5215-9687-8718-b92eedcf7275 "fm\_casestudy\_fx\_1 (R)" %}}
 
-[fm\_casestudy\_2\_rcode (R)]({{< baseurl >}}/resources/fm_casestudy_2_rcode)
+{{% resource_link 1fcf3c9c-352e-d22a-5d96-a7b394eb354e "fm\_casestudy\_2\_rcode (R)" %}}
 
-[fred\_fxrates (TXT)](./resolveuid/81880ef88f7cdff3522d94e73c54b554)
+{{% resource_link "81880ef8-8f7c-dff3-522d-94e73c54b554" "fred\_fxrates (TXT)" %}}
 
 
 {{< tdclose >}}
@@ -79,7 +86,7 @@ Regression Analysis
 Time Series Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-[Case Study 3: Time Series Analysis of 10-Year U.S. Treasury Yields (PDF)]({{< baseurl >}}/resources/mit18_s096f13_casestudy3)
+{{% resource_link 080e2e5b-4420-51fa-e509-9cf224f58c0f "Case Study 3: Time Series Analysis of 10-Year U.S. Treasury Yields (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -94,7 +101,7 @@ Time Series Analysis
 Volatility Modeling
 {{< tdclose >}}
 {{< tdopen >}}
-[Case Study 4: Volatility Modeling of Exchange Rate Returns (PDF - 1.8MB)]({{< baseurl >}}/resources/mit18_s096f13_casestudy4)
+{{% resource_link 809b321c-4ffe-634b-3db0-e8c59c4049df "Case Study 4: Volatility Modeling of Exchange Rate Returns (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -109,7 +116,7 @@ Volatility Modeling
 Time Series Analysis II
 {{< tdclose >}}
 {{< tdopen >}}
-[Case Study 5: VAR Models of Macro Economic Time Series (PDF)]({{< baseurl >}}/resources/mit18_s096f13_casestudy5)
+{{% resource_link e633bd2b-f13b-7d0b-9d80-67f6b00db398 "Case Study 5: VAR Models of Macro Economic Time Series (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -124,20 +131,20 @@ Time Series Analysis II
 Portfolio Theory
 {{< tdclose >}}
 {{< tdopen >}}
-[Case study 6: Portfolio Theory (PDF)]({{< baseurl >}}/resources/mit18_s096f13_casestudy6)
+{{% resource_link f9775f11-79d2-0bc7-88a0-d1a623107a7b "Case study 6: Portfolio Theory (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: Simulation (PDF)]({{< baseurl >}}/resources/mit18_s096f13_smltn_twoast)
+{{% resource_link e3419b9c-ff96-7dbc-cefd-7bd9017066d0 "Case Study Plots: Simulation (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.30 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_prida_30)
+{{% resource_link 95ab0099-89aa-5a67-f27d-beb620f7f830 "Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.30 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.15 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_prida_15)
+{{% resource_link 6da5f057-0f7e-d859-4a3c-84365795a572 "Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.15 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.30 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_pridb_30)
+{{% resource_link 88fd6375-57ae-a3cf-38b4-61b9db15233a "Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.30 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.15 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_pridb_15)
+{{% resource_link a9aefd3a-fb39-5833-f34a-e58af804a416 "Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.15 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -151,7 +158,7 @@ Portfolio Theory
 Factor Modeling
 {{< tdclose >}}
 {{< tdopen >}}
-[Case Study 7: Factor Modeling of U.S. Treasury Yields (PDF - 3.3MB)]({{< baseurl >}}/resources/mit18_s096f13_casestudy7)
+{{% resource_link 3f158673-e318-8fae-b6cf-fa71ecb9d254 "Case Study 7: Factor Modeling of U.S. Treasury Yields (PDF - 3.3MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
