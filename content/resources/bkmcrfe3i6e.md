@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/f0eab274dddf1cc0c74213f5ef43f0db_bKmcRfE3I6E.srt
+file_size: 94127
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

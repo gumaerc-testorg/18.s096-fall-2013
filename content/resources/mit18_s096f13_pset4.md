@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 4.
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/64b58a3283830d9448e769a201824bfb_MIT18_S096F13_pset4.pdf
+file_size: 223646
 file_type: application/pdf
 learning_resource_types:
 - Assignments
