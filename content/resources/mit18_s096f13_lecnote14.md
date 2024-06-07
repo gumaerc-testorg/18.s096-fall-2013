@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 14 notes.
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/bba02164ba6642f7d516df35347aec01_MIT18_S096F13_lecnote14.pdf
+file_size: 381665
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

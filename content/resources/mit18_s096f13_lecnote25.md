@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/65ff25bf0160cee676bbc5540cdf951f_MIT18_S096F13_lecnote25.pdf
+file_size: 529331
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
