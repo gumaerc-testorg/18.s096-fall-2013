@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding case studies 4.
-file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/809b321c4ffe634b3db0e8c59c4049df_MIT18_S096F13_CaseStudy4.pdf
+file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/809b321c4ffe634b3db0e8c59c4049df_MIT18_S096F13_CaseStudy4.pdf
 file_size: 1888235
 file_type: application/pdf
 learning_resource_types: []
