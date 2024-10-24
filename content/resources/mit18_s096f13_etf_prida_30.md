@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding case studies.
-file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/95ab009989aa5a67f27dbeb620f7f830_MIT18_S096F13_ETF_pridA_30.pdf
+file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/95ab009989aa5a67f27dbeb620f7f830_MIT18_S096F13_ETF_pridA_30.pdf
 file_size: 104117
 file_type: application/pdf
 learning_resource_types: []
