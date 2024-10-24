@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 21 notes.
-file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/a671d0d2abe626c371fd5850ad670397_MIT18_S096F13_lecnote21.pdf
+file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/a671d0d2abe626c371fd5850ad670397_MIT18_S096F13_lecnote21.pdf
 file_size: 256317
 file_type: application/pdf
 learning_resource_types:

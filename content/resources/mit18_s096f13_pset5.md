@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 5.
-file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/2dcc893d045ba13d2904efb2bb5f22cf_MIT18_S096F13_pset5.pdf
+file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/2dcc893d045ba13d2904efb2bb5f22cf_MIT18_S096F13_pset5.pdf
 file_size: 216950
 file_type: application/pdf
 learning_resource_types:
