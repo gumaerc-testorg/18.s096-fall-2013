@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 26 notes.
-file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/6a88ece1d51780a6a719cc620abc7c2f_MIT18_S096F13_lecnote26.pdf
+file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/6a88ece1d51780a6a719cc620abc7c2f_MIT18_S096F13_lecnote26.pdf
 file_size: 436746
 file_type: application/pdf
 learning_resource_types:
