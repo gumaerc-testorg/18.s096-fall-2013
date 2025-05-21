@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/35b9f17f4f46ca84de9912e5e91b4008_fm_casestudy_1_rcode.r
+file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/35b9f17f4f46ca84de9912e5e91b4008_fm_casestudy_1_rcode.r
 file_size: 11737
 file_type: application/octet-stream
 learning_resource_types: []

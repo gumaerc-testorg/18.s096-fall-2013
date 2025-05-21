@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/24e51f3887e3825063716da2a4ba72d8_lec23_slide3.jpg
+file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/24e51f3887e3825063716da2a4ba72d8_lec23_slide3.jpg
 file_size: 21873
 file_type: image/jpeg
 image_metadata:
