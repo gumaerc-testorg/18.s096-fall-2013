@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 8 notes.
-file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/1926c83ecd7ea700f7cb63914c6d7c0f_MIT18_S096F13_lecnote8.pdf
+file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/1926c83ecd7ea700f7cb63914c6d7c0f_MIT18_S096F13_lecnote8.pdf
 file_size: 395871
 file_type: application/pdf
 learning_resource_types:
