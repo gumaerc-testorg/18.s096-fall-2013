@@ -11,7 +11,7 @@ video_metadata:
   youtube_id: null
 ---
 
-Some of the case studies use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit The [R Project for Statistical Computing site](http://www.r-project.org/).
+Some of the case studies use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit The {{% resource_link "21f7d7ee-64da-48e2-af3c-4e674ed898ac" "R Project for Statistical Computing site" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

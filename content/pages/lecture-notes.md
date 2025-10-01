@@ -56,7 +56,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Matrix Primer \[No lecture notes, but see [The Morgan Stanley Matrix{{< sup "TM" >}} microsite](http://www.morganstanley.com/matrixinfo/) for information about this topic\]
+Matrix Primer \[No lecture notes, but see {{% resource_link "5460d9cf-a9dc-45c6-920a-3fefcd4adc40" "The Morgan Stanley Matrix{{< sup \"TM\" >}} microsite" %}} for information about this topic\]
 {{< tdclose >}}
 
 {{< trclose >}}
